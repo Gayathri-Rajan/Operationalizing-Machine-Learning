@@ -86,7 +86,7 @@ In this step, swagger container is deployed in order to view the swagger documet
 Since the model is deployed, we can interact with the trained model. The endpoint.py file is used to show that the endpoint is consumed. The below screenshot shows the response that endpoint.py returns.
 
 ### Running endpoints.py file
-<img src="./Screenshots/enpoints.py.jpg" />
+<img src="./Screenshots/enpoint.py.jpg" />
 
 7. Create and Publish a Pipeline
 In this step a pipeline is created. Jupyter notebook is used for AutoML run. config.json file is downloaded. After setting the pipeline, the pipeline is run and late it is published which could be observed under pipline endpoints. The follwoing screenshots shows the creation and publishing of the pipleine.
@@ -108,8 +108,8 @@ In this step a pipeline is created. Jupyter notebook is used for AutoML run. con
 
 ### Scheduled run
 <img src="./Screenshots/scheduled run.jpg" />
-## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+## Screen Recording
+Link to the video of the project. [Video Link](https://drive.google.com/file/d/1INB8RVsBeNUAe9w7EQhY-ses9Qko4JN3/view?usp=sharing)
+
+
