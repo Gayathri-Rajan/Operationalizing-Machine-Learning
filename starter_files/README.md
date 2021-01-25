@@ -34,6 +34,15 @@ The Bank Marketing Dataset needs to be uploaded and a compute cluster  Standard_
 ### Dataset
 <img src="./Screenshots/registered dataset.jpg" />
 
+### Autom ML Experiment Completed
+<img src="./Screenshots/expt completed.jpg" />
+
+### Auto ML Models
+<img src="./Screenshots/automl run.jpg" />
+
+### Best Model
+<img src="./Screenshots/best model.jpg" />
+
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
