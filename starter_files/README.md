@@ -112,4 +112,7 @@ In this step a pipeline is created. Jupyter notebook is used for AutoML run. con
 ## Screen Recording
 Link to the video of the project. [Video Link](https://drive.google.com/file/d/1INB8RVsBeNUAe9w7EQhY-ses9Qko4JN3/view?usp=sharing)
 
+## Future Improvements
+1. More data could be collected. This would help to improve the model accuracy.
+2. Feature engineering could be done in order to get better understading of the data.
 
