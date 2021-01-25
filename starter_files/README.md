@@ -110,7 +110,7 @@ In this step a pipeline is created. Jupyter notebook is used for AutoML run. con
 <img src="./Screenshots/scheduled run.jpg" />
 
 ## Screen Recording
-Link to the video of the project. [Video Link](https://drive.google.com/file/d/1INB8RVsBeNUAe9w7EQhY-ses9Qko4JN3/view?usp=sharing)
+Link to the video of the project. [Video Link](https://youtu.be/uJwDk4LoBVI)
 
 ## Future Improvements
 1. More data could be collected. This would help to improve the model accuracy.
