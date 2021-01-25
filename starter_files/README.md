@@ -22,7 +22,17 @@ In this project Automated ML is used to find the best model. The model is then d
 <img src="./Screenshots/bloc.jpg" />
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+
+1. Authentication
+
+A service principal should be created for authetication. Since I did the project on the Lab provided with the course, it is done.
+
+2.Auto ML Experiment
+
+The Bank Marketing Dataset needs to be uploaded and a compute cluster  Standard_DS12_V2 is configured with 1 as the minimum umber of nodes. Then an Auto ML experiment is created to find the best model. The follwing screeshots shows the step.
+
+### Dataset
+<img src="./Screenshots/registered dataset.jpg" />
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
