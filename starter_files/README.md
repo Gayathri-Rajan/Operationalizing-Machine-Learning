@@ -3,6 +3,7 @@
 In this project Automated ML is used to find the best model. The model is then deployed. The application insigts are enabled in order to obtain importat information.In the later stages, a pipeline is also created and it is published. The dataset used for this project is Bank Marketing dataset. These are the steps that are followed to complete the project.
 
 1.Authentication
+
 2.Automated ML Experiment
 3.Deploy the best model
 4.Enable logging
