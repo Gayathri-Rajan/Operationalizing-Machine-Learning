@@ -52,6 +52,35 @@ The best model, in this case, Voting Ensemble is deployed using Azure Container 
 ### Deployed Status- Healthy
 <img src="./Screenshots/deployed best model.jpg" />
 
+4. Enable Logging 
+Once the best model is deployed, we have to enable logging using the python file logs.py. The application insights are made true for the deployed endpoints and to retrieve the log. The following screenshots shows the logs.
+
+### Running logs.py script
+<img src="./Screenshots/logs.py1.jpg" />
+<img src="./Screenshots/logs.py2.jpg" />
+
+### Applications inisghts enabled to True
+<img src="./Screenshots/apps insights true.jpg" />
+
+5.Swagger Documentation 
+In this step, swagger container is deployed in order to view the swagger documetation. For this the swagger.json file is downloaded. The swagger.sh and serve.py file is run. All these files should be in the same folder. The GET and POST request could be observed in the swagger UI. The below screenshots show the swagger documentation.
+
+### Running swagger.sh file
+<img src="./Screenshots/swagger.sh1.jpg" />
+<img src="./Screenshots/swagger.sh3.jpg" />
+
+### Running serve.py file
+<img src="./Screenshots/serve.py.jpg" />
+
+### Swagger documentation
+<img src="./Screenshots/swagger.jpg" />
+
+### GET request
+<img src="./Screenshots/get.jpg" />
+
+### POST request
+<img src="./Screenshots/post.jpg" />
+<img src="./Screenshots/post2.jpg" />
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
