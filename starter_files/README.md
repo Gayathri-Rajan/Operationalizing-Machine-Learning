@@ -66,7 +66,7 @@ Once the best model is deployed, we have to enable logging using the python file
 In this step, swagger container is deployed in order to view the swagger documetation. For this the swagger.json file is downloaded. The swagger.sh and serve.py file is run. All these files should be in the same folder. The GET and POST request could be observed in the swagger UI. The below screenshots show the swagger documentation.
 
 ### Running swagger.sh file
-<img src="./Screenshots/swagger.sh1.jpg" />
+<img src="./Screenshots/swager.sh1.jpg" />
 <img src="./Screenshots/swagger.sh3.jpg" />
 
 ### Running serve.py file
@@ -81,6 +81,33 @@ In this step, swagger container is deployed in order to view the swagger documet
 ### POST request
 <img src="./Screenshots/post.jpg" />
 <img src="./Screenshots/post2.jpg" />
+
+6. Consume Model Endpoints
+Since the model is deployed, we can interact with the trained model. The endpoint.py file is used to show that the endpoint is consumed. The below screenshot shows the response that endpoint.py returns.
+
+### Running endpoints.py file
+<img src="./Screenshots/enpoints.py.jpg" />
+
+7. Create and Publish a Pipeline
+In this step a pipeline is created. Jupyter notebook is used for AutoML run. config.json file is downloaded. After setting the pipeline, the pipeline is run and late it is published which could be observed under pipline endpoints. The follwoing screenshots shows the creation and publishing of the pipleine.
+
+### Pipeline created
+<img src="./Screenshots/pipeline running.jpg" />
+
+### Pipeline Endpoint
+<img src="./Screenshots/pipeline endpoint.jpg" />
+
+### Pipeline Completed
+<img src="./Screenshots/pipeline completed.jpg" />
+
+### Published Pipeline Overiew
+<img src="./Screenshots/rest edpoitactive.jpg" />
+
+### RunDetails Widget
+<img src="./Screenshots/rundetailswidget.jpg" />
+
+### Scheduled run
+<img src="./Screenshots/scheduled run.jpg" />
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
