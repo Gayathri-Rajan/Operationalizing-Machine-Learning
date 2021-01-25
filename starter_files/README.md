@@ -43,6 +43,15 @@ The Bank Marketing Dataset needs to be uploaded and a compute cluster  Standard_
 ### Best Model
 <img src="./Screenshots/best model.jpg" />
 
+3. Deploy the best model
+The best model, in this case, Voting Ensemble is deployed using Azure Container Instance(ACI) and we make sure that the deployment status is healthy.
+
+### Deploying the best model
+<img src="./Screenshots/best model deploy.jpg" />
+
+### Deployed Status- Healthy
+<img src="./Screenshots/deployed best model.jpg" />
+
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
